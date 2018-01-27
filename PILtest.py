@@ -1,4 +1,4 @@
-# cording utf-8
+# coding: utf-8
 from PIL import Image, ImageFilter
 import math
 
